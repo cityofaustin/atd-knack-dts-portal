@@ -10,4 +10,4 @@ This application allows ATD users/customers to submit requests to the Data and T
 
 **[Read the docs - TBD]
 
-![visitor log home page](media/screen_shot_visitor_log.PNG)
+![dts portal home page](media/screen_shot_DTS_portal_home_screen.PNG)

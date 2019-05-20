@@ -8,6 +8,6 @@ This application allows ATD users/customers to submit requests to the Data and T
 #### Stakeholder Divisions
 - All ATD divisions 
 
-**[Read the docs - TBD]
+_**[Read the docs - TBD]_
 
 ![dts portal home page](media/screen_shot_DTS_portal_home_screen.PNG)

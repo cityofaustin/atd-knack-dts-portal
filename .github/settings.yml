@@ -1,7 +1,7 @@
 labels:
   - name: Duplicate
     color: 5F7D8C
-    description: ""
+    description: "Duplicate issue"
   - name: Epic
     color: 3E4B9E
     description: ""
